@@ -1,4 +1,4 @@
-**Kevin Hartwig**
+# **Kevin Hartwig**
 
 **(541) 517-5693 |** [**kevinhartwig@gmail.com**](mailto:kevinhartwig@gmail.com)
 
@@ -8,34 +8,32 @@ Java, C#, C/C++, Bash, Python, Ruby
 
 **Technologies and Tools**
 
-AWS, Terraform, Github Actions/Jenkins, Datadog/New Relic, Splunk/Sumologic, PagerDuty, Docker, Rundeck, Jira, Git, Postgres/DB2
+AWS, Terraform, Kubernetes, Github Actions, Datadog/New Relic, Splunk/Sumologic, PagerDuty, Docker, Jira. Postgres
 
 **Operating Systems**
 
-   macOS, Windows, Unix (Linux, AIX)
+macOS, Windows, Unix (Linux, AIX)
 
 **PROFESSIONAL EXPERIENCE**
 
-**Hinge Health | Portland, OR United States**
+**Hinge Health | Portland, OR**
 
-**Staff Site Reliability Engineer |** February 2020 - May 2024
+**Staff Site Reliability Engineer **| February 2020 - May 2024
 
-- Lead cloud migration initiative from PaaS provider to AWS.
+- Led cloud migration initiative from PaaS provider (Aptible) to AWS.
+- Designed AWS organizations and security architecture to conform to AWS best practices.
+- Established incident committee to drive incident management improvements company wide including parterning with engineering leadership to design and implement a company incident management process, develop and run incident management training, build out of monitoring and alerting integrations between observabilty platforms and PagerDuty.
+- Led project to redact PHI data from service logs enabling offshore employees to support production.
+- Led multiple observabilty projects including onboarding of SumoLogic and migration from New Relic to Datadog.
 - Built organizational AWS IAM strategy using Google Workspace, AWS SSO and Terraform. 
-- Designed AWS organizations and security tooling architecture to conform to AWS best practices and meet compliance requirements.
-- Established incident committee to drive incident management 
-- Developed and ran incident management training for all on-call engineers.
-- Worked with engineering leadership to design and implement a company incident management process.
-- Support engineering in the deployment, monitoring and scaling of PaaS hosted services and databases.
 - Partner with engineering, security, compliance on defining and implementing infrastructure to support organizational initiatives. 
-- Led project to transition from New Relic to Datadog for APM and infrastructure monitoring. 
-- Built an incident management process and designed training for engineers and management for being on-call and working incidents.
-- Partner with engineering and leadership to design and document best practices related to operational excellence including code freezes, on-call expectations and scheduled maintenance.
-- Provide 24 hour on-call support to meet 99.9% uptime SLA’s. 
+- Partner with engineering and leadership to define and document best practices related to operational excellence including code freezes, on-call expectations, scheduled maintenance, PHI logging standards.
+- Expanded SRE team from 2 engineers to 7 including hiring of managment and Director of Infrastructure.
+- Provide 24/7 hour on-call support to meet 99.9% uptime SLA’s. 
 
 **moovel North America | Portland, OR**
 
-**Senior DevOps Engineer |** June 2018 - February 2020
+**Senior DevOps Engineer **| June 2018 - February 2020
 
 - Led project to automate deployment of service level alerting through New Relic at service build time. 
 - Built out infrastructure monitoring and alerting solution using New Relic Infrastructure.
@@ -49,7 +47,7 @@ AWS, Terraform, Github Actions/Jenkins, Datadog/New Relic, Splunk/Sumologic, Pag
 
 **XPO Logistics (Formerly Con-way Enterprise Services) | Portland, OR**
 
-**Software Engineer Principal |** June 2014 - June 2018
+**Software Engineer Principal **| June 2014 - June 2018
 
 - Led project to migrate document repository of 750 million documents from local optical storage to Amazon S3 storage. 
 - Designed and developed a solution to migrate all documents in our company's contract management solution (Filenet), into our document management system.
@@ -63,9 +61,9 @@ AWS, Terraform, Github Actions/Jenkins, Datadog/New Relic, Splunk/Sumologic, Pag
 - Provide high level support to internal business partners, external vendors and customers.
 - Train and mentor junior developers.
 
-**Con-way Enterprise Services** | Portland, OR
+**Con-way Enterprise Services | Portland, OR**
 
-**Software Engineer Senior** **|** September 2011 - June 2014
+**Software Engineer Senior** | September 2011 - June 2014
 
 - Designed and developed multiple SOAP web services, which communicate with internal C applications and databases using IPC, HTTP/WebDAV and JDBC.
 - Developed application to automatically detect and redact sensitive customer information from delivery manifest documents utilizing OCR and barcode recognition software.
@@ -73,18 +71,18 @@ AWS, Terraform, Github Actions/Jenkins, Datadog/New Relic, Splunk/Sumologic, Pag
 - Evaluated and integrated third-party barcode recognition software into an existing software framework.
 - Updated existing VB6, .NET and Java applications and their installation packages to be Windows 7 and Windows XP compliant.
 
-**Con-way Enterprise Services** | Portland, OR
+**Con-way Enterprise Services | Portland, OR**
 
-**Software Engineer** **|** January 2008 - September 2011
+**Software Engineer** | January 2008 - September 2011
 
 - Developed Java application to update document indexing information triggered off of an XML request received from a Tibco messaging service (JMS).
 - Developed C application to start and continuously monitor unix applications status based on configuration information stored in a DB2 database.
 - Collaborated in the design and development of a Java build script template utilizing Ant. 
 - Tested and supported high volume document scanners and cameras used as imaging devices.
 
-**Department of Defense - Naval Undersea Warfare Center** | Keyport, WA
+**Department of Defense - Naval Undersea Warfare Center | Keyport, WA**
 
-**Software Developer |** June 2006 - January 2008
+**Software Developer **| June 2006 - January 2008
 
 - Worked as a part of a team to develop, test, and support the United States Navy’s Carrier Vessel Tactical Support Center (CV-TSC) and Undersea Warfare Decision Support System (USW-DSS).
 - Designed and developed Java application to simulate the deployment of sonobuoys to be used in testing and readiness activities.
@@ -94,6 +92,6 @@ AWS, Terraform, Github Actions/Jenkins, Datadog/New Relic, Splunk/Sumologic, Pag
 
 **EDUCATION**
 
-**B.S. Computer Science,** **Minor in Business Administration** 
+**B.S. Computer Science,** **Minor in Business Administration** | 2001-2006
 
-*Oregon State University - Corvallis, Oregon, United States*(Graduated June 2006)
+*Oregon State University - Corvallis, Oregon, United States*
