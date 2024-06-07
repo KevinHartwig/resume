@@ -1,6 +1,10 @@
-# **Kevin Hartwig**
+# **Kevin Hartwig** 
 
 **(541) 517-5693 |** [**kevinhartwig@gmail.com**](mailto:kevinhartwig@gmail.com)
+
+**Summary**
+
+Driven goal-oriented technology leader with broad experience in software and site reliability engineering. Known for the ability to own projects from inception through release. Passion for implementing and driving observability and incident management best practices. Effective communicator to all levels of seniority and experience. 
 
 **Languages** 
 
