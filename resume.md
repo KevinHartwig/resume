@@ -1,4 +1,4 @@
-# **Kevin Hartwig** 
+# **Kevin Hartwig**
 
 **(541) 517-5693 |** [**kevinhartwig@gmail.com**](mailto:kevinhartwig@gmail.com)
 
@@ -20,7 +20,7 @@ macOS, Windows, Unix (Linux, AIX)
 
 **PROFESSIONAL EXPERIENCE**
 
-**Hinge Health | Portland, OR**
+**Hinge Health | Portland, OR** 
 
 **Staff Site Reliability Engineer | March 2022 - May 2024**
 
@@ -33,7 +33,7 @@ macOS, Windows, Unix (Linux, AIX)
 - Led multiple observability projects including onboarding of SumoLogic and migration from New Relic to Datadog.
 - Built organizational AWS IAM strategy using Google Workspace, AWS SSO and Terraform. 
 - Partnered with engineering, security, compliance on defining and implementing infrastructure to support organizational initiatives. 
-- Partnered with engineering and leadership to define and document best practices related to operational excellence including code freezes, on-call expectations, scheduled maintenance, PHI logging standards.
+- Collaborated with engineering leadership to define and document best practices related to operational excellence including code freezes, on-call expectations, scheduled maintenance, PHI logging standards.
 - Expanded SRE team from 2 engineers to 7 including hiring of management and Director of Infrastructure.
 - Provided 24/7 hour on-call support to meet 99.9% uptime SLA’s.
 
