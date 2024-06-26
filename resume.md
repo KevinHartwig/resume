@@ -39,7 +39,7 @@ macOS, Windows, Unix (Linux, AIX)
 
 **moovel North America | Portland, OR** 
 
-**Senior DevOps Engineer | Auguest 2019 - February 2020**
+**Senior DevOps Engineer | August 2019 - February 2020**
 
 **DevOps Engineer | June 2018 - August 2019**
 
