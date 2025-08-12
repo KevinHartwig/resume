@@ -12,13 +12,25 @@ Java, C#, C/C++, Bash, Python, Ruby
 
 **Technologies and Tools**
 
-AWS, Terraform, Kubernetes, Github Actions, Datadog/New Relic, Splunk/Sumologic, PagerDuty, Docker, Jira. Postgres
+AWS, Azure, Terraform, Kubernetes, Github Actions, Datadog/New Relic, Splunk/Sumologic, PagerDuty, Docker, Jira. Postgres
 
 **Operating Systems**
 
-macOS, Windows, Unix (Linux, AIX)
+macOS, Windows, Linux
 
 **PROFESSIONAL EXPERIENCE**
+
+**Access Point Consulting | Portland, OR**
+
+**Director of Infrastructure Services | January 2025 - Present**
+
+**Security Engineering and Architecture Consultant | August 2024 - January 2025**
+
+- Partnered with executive leadership and marketing to define, design, and launch a Cloud Infrastructure consulting offering, expanding the company’s service offerings.
+- Designed and implemented an internal disaster recovery plan, including requirements for cloud and on-premises backup and recovery.
+- Collaborated with business development to establish strategic partnerships with security-focused SaaS providers, enhancing client security capabilities
+- Delivered a featured presentation at the 2025 InfoTech Conference focusing on best practices in Identity and Access Management (IAM) and Privileged Identity Management in Azure.
+- Produced and hosted multiple best practice webinars and podcasts covering cloud cost optimization, IAM, backup and recovery strategies, and the cloud shared responsibility model.
 
 **Hinge Health | Portland, OR** 
 
@@ -100,4 +112,4 @@ macOS, Windows, Unix (Linux, AIX)
 
 **B.S. Computer Science,** **Minor in Business Administration** 
 
-*Oregon State University - Corvallis, Oregon
+**Oregon State University - Corvallis, Oregon**
