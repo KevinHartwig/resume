@@ -105,7 +105,6 @@ macOS, Windows, Linux
 - Worked as a part of a team to develop, test, and support the United States Navy’s Carrier Vessel Tactical Support Center (CV-TSC) and Undersea Warfare Decision Support System (USW-DSS).
 - Designed and developed Java application to simulate the deployment of sonobuoys to be used in testing and readiness activities.
 - Performed on-site installations of the USW-DSS software.
-- Provided on-site, phone and email support to customers and other support personnel.
 - Performed validation testing of both software and hardware components for deployment and readiness exercises.
 
 **EDUCATION**
