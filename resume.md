@@ -22,7 +22,7 @@ macOS, Windows, Linux
 
 **Access Point Consulting | Portland, OR**
 
-**Director of Infrastructure Services | January 2025 - Present**
+**Director of Infrastructure Services | January 2025 - December 2025**
 
 **Security Engineering and Architecture Consultant | August 2024 - January 2025**
 
